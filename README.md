@@ -1,7 +1,7 @@
 ![Banner](https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2020/11/EitJnbZXkAAvp2T-1-copy-69.jpg)
 
 
-# 🐍 Pokémon Concurrency Benchmark
+# 🐍 Pokemon Concurrency Benchmark
 
 This project compares different **Python concurrency methods** to determine the most efficient way to download and process a dataset of **151 Pokémon names and sprites** from GitHub.  
 
