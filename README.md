@@ -1,4 +1,4 @@
-![Banner](<img width="1920" height="960" alt="image" src="https://github.com/user-attachments/assets/0d36a27f-b440-47f7-b9ce-ae3c553d942c" />)
+![Banner](https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2020/11/EitJnbZXkAAvp2T-1-copy-69.jpg)
 
 
 # 🐍 Pokémon Concurrency Benchmark
